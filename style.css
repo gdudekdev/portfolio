@@ -1,0 +1,30 @@
+/* NAVBAR */
+.navbar-custom{
+    background-color: #fff;
+    box-shadow: 0 1px 0 #000;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link-custom{
+    font-family: Manrope;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+/* CARDS */
+.btn-primary{
+    --bs-btn-bg: #4f7490 !important;
+    --bs-btn-border-color: #3b576c !important;
+    --bs-btn-hover-bg: #86c0ec !important;
+    --bs-btn-hover-border-color: #78b7e6 !important;
+    font-size:20px;
+    color:#b0ddff;
+}
+
+.btn:hover{
+    color:#b0ddff;
+}
+
+.scroll-margin-section{
+    scroll-margin-top:85px;
+    
+}
